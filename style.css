@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&family=Karla:wght@300&family=Oswald:wght@200;300&family=Raleway:wght@500&display=swap');
+    
+    body  {
+      text-align:center; 
+      background-image: 
+    linear-gradient(rgba(80, 79, 79, 0.441), rgb(250, 248, 248)),
+    url(https://i.postimg.cc/bJKrNPN7/0-ABDA476-10-C4-44-B3-BE05-E755-D9-C1-E209-4.jpg);
+    margin-bottom: 20px;
+      
+      
+    }
+      
+    h1  {
+        font-family: 'Bebas Neue', cursive;
+        font-weight: 800;
+        font-size: 50px;
+        margin-bottom: 0px;
+      
+    }
+    
+    h2  {
+        margin-top: 0px;
+       color: white; 
+       font-weight: normal; 
+       font-family: 'Raleway', sans-serif; 
+       padding: 10px;
+      
+     }
+    
+    nav  {
+       padding: 10px;
+      
+    }
+
+    article {
+        color: rgb(17, 17, 16);
+    }
+      
+    .button  {
+      cursor: pointer;
+      padding: 8px 24px; 
+      font-size: 14px; 
+      background-color: rgb(255, 255, 255); 
+      
+    }
+    
+    .button:hover  {
+        color: rgb(30, 76, 239);
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+    
+    img {
+      border: 2px solid rgb(18, 18, 18);
+      border-radius: 10%;
+      flexbox: auto
+    }
+    
+    .page-text  {
+       margin: 25px 400px; 
+       font-family: 'Karla', sans-serif;
+       font-size: 17px;
+       font-weight: 0;
+    }
+
+    #link {
+        font-weight: 400;
+
+    }
+
+    #link:hover {
+        color: black;
+
+    }
+
+    footer  {
+        
+    }
+
+    #kenzielink:hover {
+        color: blue;
+
+    }
