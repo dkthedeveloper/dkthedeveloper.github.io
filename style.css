@@ -35,6 +35,8 @@
     article {
         color: rgb(17, 17, 16);
     }
+
+   
       
     .button  {
       cursor: pointer;
@@ -52,7 +54,8 @@
     img {
       border: 2px solid rgb(18, 18, 18);
       border-radius: 10%;
-      flexbox: auto
+      
+      
     }
     
     .page-text  {
