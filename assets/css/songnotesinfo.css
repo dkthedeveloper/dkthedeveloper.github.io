@@ -24,3 +24,11 @@
     justify-content: center;
     color: black;
 }
+
+.section {
+    height: 85vh;
+}
+
+p {
+    text-indent: 40px;
+}
