@@ -25,10 +25,10 @@
     color: black;
 }
 
-.section {
+.sec {
     height: 85vh;
 }
 
-p {
+.sec p {
     text-indent: 40px;
 }
