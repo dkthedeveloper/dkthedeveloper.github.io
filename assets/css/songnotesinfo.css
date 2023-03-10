@@ -9,7 +9,7 @@
 
 .songNotes-description {
   
-    padding: 20px 100px 10px;
+    padding: 50px 10% 10px;
     border: 1px solid rgb(32, 32, 32);
 }
 
@@ -23,12 +23,18 @@
     display: flex;
     justify-content: center;
     color: black;
+    margin-top: 20px;
 }
 
 .sec {
-    height: 85vh;
+    min-height: 85vh;
 }
 
 .sec p {
     text-indent: 40px;
 }
+
+.songNotes-picture {
+    height: 100%;
+}
+
